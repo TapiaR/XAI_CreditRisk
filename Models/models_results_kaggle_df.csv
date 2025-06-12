@@ -1,0 +1,10 @@
+Modelo,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Gradient Boosting,0.938,0.599,0.197,0.296,0.868
+LightGBM (GPU),0.937,0.59,0.194,0.291,0.867
+MLP (sklearn),0.936,0.574,0.176,0.269,0.862
+XGBoost (GPU),0.936,0.551,0.211,0.306,0.859
+Random Forest,0.936,0.568,0.186,0.28,0.843
+Neural Net (PyTorch),0.936,0.573,0.189,0.284,0.838
+Logistic Regression,0.934,0.582,0.044,0.082,0.714
+KNN,0.933,0.492,0.135,0.212,0.694
+Decision Tree,0.899,0.257,0.27,0.263,0.608
